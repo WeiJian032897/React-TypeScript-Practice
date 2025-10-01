@@ -5,5 +5,5 @@ Second project   - Props  \
 Third project    - Lists & Mapping and Conditional Rendering  \
 Fourth project   - UseEffect \
 Fifth project    - API Calls & Fetching Data from the Internet \
-Sixth project    - React Router - Building Multi-Page Applications \
-Seventh project  - 
+Sixth project    - React Router - Building Multi-Page Applications 
+
