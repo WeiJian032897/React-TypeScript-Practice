@@ -4,4 +4,4 @@ First project    - State (useState) \
 Second project   - Props  \
 Third project    - Lists & Mapping and Conditional Rendering  \
 Fourth project   - UseEffect \
-Fifth project    - API Calls & Fetching Data from the Internet!
+Fifth project    - API Calls & Fetching Data from the Internet
