@@ -1,9 +1,9 @@
 # React-TypeScript-Practice
 
 Command:
-cd (project name)
-npm install (first time)
-npm run dev
+cd (project name) \
+npm install (first time) \
+npm run dev \
 
 This is the place of storing practice file.\
 First project    - State (useState) \
