@@ -1,6 +1,6 @@
 # React-TypeScript-Practice
 
-Command:
+Command:\
 cd (project name) \
 npm install (first time) \
 npm run dev \
